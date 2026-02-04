@@ -27,5 +27,4 @@ The framework follows **Behavior Driven Development (BDD)** principles to ensure
 
 ---
 
-## 📂 Project Structure
 
